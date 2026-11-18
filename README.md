@@ -21,6 +21,14 @@ A simple and interactive web application to manage personal income and expenses.
 - Plotly
 - SQLite
 
+## Live Demo
+
+Try the Expense Tracker application online:
+
+[Open Expense Tracker](https://my-expense-tracker2.streamlit.app/)
+
+The application is deployed using Streamlit Community Cloud.
+
 ## Installation
 
 ### 1. Clone the repository
